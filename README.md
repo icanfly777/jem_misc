@@ -63,9 +63,13 @@ You are entirely responsible for anything bad that happens when following this g
  * Connect device to computer using normal micro-USB cable
  * In TWRP
    * Advanced > ADB Sideload > Swipe to start sideload
- * Run the following commands (replace the lineage zip with whatever custom ROM you use):
+ * Run the following command (replace the lineage zip with whatever custom ROM you use):
  
        adb sideload lineage-XX-XXXXXXXX-UNOFFICIAL.zip
+ * In TWRP
+   * Back arrow > ADB Sideload > Swipe to start sideload
+ * Run the following command:
+ 
        adb sideload open_gapps-arm-4.4-XXXX-XXXXXXXX.zip
   * Unplug tablet and reboot
   * First boot may take a long time
