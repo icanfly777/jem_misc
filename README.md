@@ -62,7 +62,7 @@ You are entirely responsible for anything bad that happens when following this g
 * With a shell in the directory containing the files, run the following commands:
 
       fastboot flash bootloader kfhd8-u-boot-prod-8.1.4.bin
-      fastboot flash recovery kfhd8-twrp-2.8.7.0-recovery.img
+      fastboot flash recovery jem_recovery_160403.img
       fastboot flash boot kfhd8-freedom-boot-8.4.6.img
       
  * If all commands ran successfully, unplug the tablet
