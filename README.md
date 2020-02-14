@@ -80,7 +80,7 @@ You are entirely responsible for anything bad that happens when following this g
    * Wipe > Advanced > select everything > confirm
    * Wipe > Format data > confirm
    * Wipe > Factory reset > confirm
- * Repeat step 3 to enter recovery
+ * Repeat step 4 to enter recovery
  * Connect device to computer using normal micro-USB cable
  * In TWRP
    * Advanced > ADB Sideload > Swipe to start sideload
